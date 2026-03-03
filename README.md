@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=sivasai07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sivasai07&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 🧠 Specialized in LLM Systems, RAG Architectures & AI Product Engineering  
 ⚙️ Building scalable AI-powered real-world applications  
 
-I focus on **engineering intelligent systems**, not just training models.
+I focus on engineering intelligent systems — not just training models.
 
 ---
 
@@ -42,7 +42,7 @@ I focus on **engineering intelligent systems**, not just training models.
 
 # 🧠 AI & Generative AI Expertise
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
@@ -51,7 +51,7 @@ I focus on **engineering intelligent systems**, not just training models.
 - Vector Databases & Semantic Embeddings
 - Prompt Engineering & Context Optimization
 - Fine-tuning Workflows
-- Hallucination Mitigation Strategies
+- Hallucination Mitigation
 
 ### 🔹 Deep Learning
 - Transformers & Attention Mechanisms
@@ -63,7 +63,7 @@ I focus on **engineering intelligent systems**, not just training models.
 
 # 💻 Full Stack & Product Engineering
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,spring,mysql" />
 </p>
 
@@ -123,12 +123,12 @@ I focus on **engineering intelligent systems**, not just training models.
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sivasai07&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasai07&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sivasai07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sivasai07&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasai07&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasai07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
